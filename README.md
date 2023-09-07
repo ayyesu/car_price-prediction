@@ -1,6 +1,6 @@
 # Car Price Prediction Project
 
-![Car Image]('https://storage.googleapis.com/kaggle-datasets-images/575/1100/0eef60c1bfb8fc2f391357fc7837d577/dataset-cover.jpg')
+![Car Image](https://storage.googleapis.com/kaggle-datasets-images/575/1100/0eef60c1bfb8fc2f391357fc7837d577/dataset-cover.jpg)
 
 This project aims to predict car prices based on a dataset obtained from Kaggle. The dataset contains information about various car attributes, including make, model, year, mileage, and more.
 
