@@ -35,7 +35,7 @@ The goal of this project is to build a machine learning model that can predict t
 
    ```bash
    git clone https://github.com/ayyesu/car_price-prediction.git
-   cd car-price-prediction
+   cd car_price-prediction
 
 2. Install required Python Library
    ```bash
